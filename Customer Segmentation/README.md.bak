@@ -19,3 +19,11 @@ il etait demande de realiser :
  - Une presentation de synthése.
  
 
+# Contexte : 
+la ville de seattle souhaite atteindre la neutralite carbonne en 2050. Afin d'etudier les modalités
+de mise en oeuvre, la municipalite a mis a disposition, via kaggle les releves de consommation d'energie et d'emission des batiments en 2015 et 2016.
+l'objectif est d'entrainer une solution de machine learning afin de predire les emissions de co2(variable GHGEmission)
+et la consommation totale d'energie de batiments qui n'ont pas encore fait l'objectif de mesure, Nottons que pour consommation d'energie totale, nous 
+privilégions l'utilisation de l'indicateur normalisé par la meteo.
+lors des traveau il est egalement demande d'evaluer l'interet de l'indicateur ENERGY STAR SCORE afin de realiser les predictions.
+
