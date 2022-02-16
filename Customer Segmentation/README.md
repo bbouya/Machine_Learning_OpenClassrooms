@@ -1,10 +1,7 @@
 ## Introduction :
-Le projet de ce notebook a éte realise dans le cadre de la fromation D'ingénieur 
-machine learning propose par openclassrooms.
-
-Il portait sur la l'entrainement de modeles destines a predire la consommation
-d'energie et les emission de co2 de batiments de la ville de seattle aux etats unis.
-
+Ce notebook regroupe le travail de nettoyage de données, 
+d'analyse exploratoire et de feauture engeeniring réalisé sur 
+les données de consommation électrique des bâtiments de la ville de Seattle.
 il etait demande de realiser : 
  - Le nettoyage et l'expoloration des donnees.
  - Construire des variables learning (feature engineering).

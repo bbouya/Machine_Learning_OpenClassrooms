@@ -20,10 +20,16 @@ il etait demande de realiser :
  
 
 # Contexte : 
-la ville de seattle souhaite atteindre la neutralite carbonne en 2050. Afin d'etudier les modalités
-de mise en oeuvre, la municipalite a mis a disposition, via kaggle les releves de consommation d'energie et d'emission des batiments en 2015 et 2016.
-l'objectif est d'entrainer une solution de machine learning afin de predire les emissions de co2(variable GHGEmission)
-et la consommation totale d'energie de batiments qui n'ont pas encore fait l'objectif de mesure, Nottons que pour consommation d'energie totale, nous 
-privilégions l'utilisation de l'indicateur normalisé par la meteo.
-lors des traveau il est egalement demande d'evaluer l'interet de l'indicateur ENERGY STAR SCORE afin de realiser les predictions.
+La maketplace brésilienne Olist cherche à réaliser une segmentation de ses clients afin de réaliser de futures actions de communication/marketing.
 
+Afin de la réliaser le site mais à disposition les données des transactions réalisée depuis janvier 2017. Celles-ci sont réparties dans plusieurs fichiers:
+
+olist_customers_dataset.csv : Listing des clients
+olist_geolocalisation_dataset.csv: Données de localisation des clients
+olist_order_items_dataset.csv: listing des produits commandés
+olist_order_payments_dataset.csv: Listing des paiements
+olist_order_reviews_dataset.csv: Listing des évaluations clients
+olist_orders8dataset.csv: Listing des commandes
+olist_sellers_dataset.csv: Listing des vendeurs
+olist_product_category_name_translaion.csv
+Le site souhaite également qu'un devis de contrat de maintenance de la segmentation soit réalisé.
