@@ -1,0 +1,21 @@
+## Introduction :
+Le projet de ce notebook a éte realise dans le cadre de la fromation D'ingénieur 
+machine learning propose par openclassrooms.
+
+Il portait sur la l'entrainement de modeles destines a predire la consommation
+d'energie et les emission de co2 de batiments de la ville de seattle aux etats unis.
+
+il etait demande de realiser : 
+ - Le nettoyage et l'expoloration des donnees.
+ - Construire des variables learning (feature engineering).
+ - Entrainer differntes familles de modeles de machine learning
+ - Selectionner le /les meilleur modeles et definir les hyperparamtres permettant d'atteindre les meilleures performances
+ - Deternminer si la variable ENERGYSTARSCORE, couteuse a calculée, est necessaire pour l'entrainement des modeles
+ 
+ 
+## Contenu de repository : 
+ - Un notebook de nettoyage et l'exploration des données et de construction de variables.
+ - Un notebook presentant l'entrainement des modeles,
+ - Une presentation de synthése.
+ 
+
