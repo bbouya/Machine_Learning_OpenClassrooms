@@ -19,3 +19,13 @@ Fournissez au equipes d'e-commerce de olist une segmatation des clients qu'elles
         * Creation de nouvelles variables.
         * Clustering de la donnes une fois compresse a basse dimension.
         * Segmentation RFM.
+
+## Merge 'order' data with 'customers' data:
+On verfie que le customer_id est une jointure entre les tables orders & customers: on va donc commencer par faire un merge de ces 2 tables.
+        * Nombre de lignes dans data orders : 99441
+        * Nombre de lignes dans customers : 99441
+        * Nombre decustomer_iduniques dans customers: 99441
+        * Shape de orders : (99441, 8)
+        * shape de customers : (99441,5)
+
+
